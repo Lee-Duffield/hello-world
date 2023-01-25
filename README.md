@@ -1,6 +1,6 @@
 # hello-world
 My second repo
-<hl color:"yellow";>
+
 <br>
   <h1 color:"blue";>My name is</h1>
   <h2>Lee Duffield</h2>
